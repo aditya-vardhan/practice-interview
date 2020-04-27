@@ -14,3 +14,5 @@ other interview questions:
 . what is angular: its a ui binding framework
 . How to implement lazy loading in angular
 . what is typescript: superset of javascript. It adds types to javascript
+. What is angular cli: it helps in creating boilerplate for project, component etc..
+
