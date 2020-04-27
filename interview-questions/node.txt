@@ -12,6 +12,9 @@ does rest through 500 when sent body for get request
 arch group interview:
 procedure in auth0 and auth2
 
+Other interview questions:
+what is singleton object
+
 
 
 
