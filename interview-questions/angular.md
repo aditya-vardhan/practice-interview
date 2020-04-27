@@ -15,4 +15,9 @@ other interview questions:
 . How to implement lazy loading in angular
 . what is typescript: superset of javascript. It adds types to javascript
 . What is angular cli: it helps in creating boilerplate for project, component etc..
-
+. what is module: group of components @NgModule
+. what is decorator/annotations/metadata: tells what kind of class. eg: @component
+. what are templates in angular: html view of angular
+    eg: (({selector: "app-table", templateUrl: "./Table.component.html"}))
+. What is data binding:
+. Different types of data binding:
