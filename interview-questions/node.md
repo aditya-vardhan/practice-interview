@@ -12,6 +12,16 @@ does rest through 500 when sent body for get request
 arch group interview:
 procedure in auth0 and auth2
 
+excelon interview:
+lexical scope
+create class without prototype and class
+closure and its realtime usage. Useful in encapsulation or protecting properties
+hoisting
+defining modules without module.export
+what is iife- self calling anonymous function
+
+
+
 Other interview questions:
 what is singleton object
 
