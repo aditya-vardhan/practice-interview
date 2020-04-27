@@ -1,6 +1,8 @@
 Adidas interview:
 what is restful
 restful vs sop
+xml vs json vs html
+binary messaging
 how https is sequre, can attackers get data through https
 how to get s in https
 what is type of encryption/encoding or algorithm in https
@@ -20,11 +22,5 @@ hoisting
 defining modules without module.export
 what is iife- self calling anonymous function
 
-
-
 Other interview questions:
 what is singleton object
-
-
-
-
