@@ -9,7 +9,7 @@
 * in get extend url limit. is it possible? how? and its limitations
 * what is restful statelessness
 * verbose in rest i.e get put etc
-* does rest through 500 when sent body for get request
+* does rest throw 500 when sent body for get request
 
 ### Arch group interview:
 * procedure in auth0 and auth2
