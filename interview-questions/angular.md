@@ -19,5 +19,24 @@ other interview questions:
 . what is decorator/annotations/metadata: tells what kind of class. eg: @component
 . what are templates in angular: html view of angular
     eg: (({selector: "app-table", templateUrl: "./Table.component.html"}))
-. What is data binding:
+. What is data binding: how view and component communicate with each other is called data binding
 . Different types of data binding:
+    expression/interpolation: <td>{{customer}}</td> data flows from component to html
+    property binding: [ngModel] component to view
+    event binding: (ngModel) view to component
+    2 way binding: [(ngModel)] view <> component
+. Explain the architecture of angular:
+    template: view of angular
+    component(view talks to component) component talks with css, view
+    module(groups the components logically)
+    binding:[()] defines how view and component communicate
+    directives: {{}} changes the html dom behaviour
+    service: share common points/logic. when consumed into a component, the object is not created it is injected
+    Dependency injection: to put services across components. helps to inject instance across constructor
+. What is spa: load ui once and dont reload it again and again. To implement spa in angular we use angular routing. Routing helps in navigating b/w components. we need to define path and its component in routing.
+    <router-outlet></router-outlet> here page will be loaded.
+    [routerLink] helps in navigation
+    this.route.navigate(['/Home']) helps navigation from behind view
+.What is lazy loading: on demand loading. loading what is essential css html & js
+    for this divide project into seperate modules and use loadChildren in router
+    
