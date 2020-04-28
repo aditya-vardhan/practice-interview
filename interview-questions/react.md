@@ -1,4 +1,4 @@
-### excelon interview:
+### Excelon interview:
 * lifecycle methods
 * how to do optimization
 * component to component communication
@@ -6,7 +6,7 @@
 * disadvantages of hooks
 
 
-### important topics for practice:
+### Important topics for practice:
 * https://github.com/gopinav i.e 
 * codeevolution youtube channel:
 * react hooks: https://youtu.be/cF2lQ_gZeA8

@@ -11,10 +11,10 @@
 * verbose in rest i.e get put etc
 * does rest through 500 when sent body for get request
 
-### arch group interview:
+### Arch group interview:
 * procedure in auth0 and auth2
 
-### excelon interview:
+### Excelon interview:
 * lexical scope
 * create class without prototype and class
 * closure and its realtime usage. Useful in encapsulation or protecting properties

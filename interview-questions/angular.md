@@ -2,7 +2,7 @@
 * architectural difference between angular and angular.js: component vs controller style
 * do you prefer typescript or javascript
 
-### other interview questions:
+### Other interview questions:
 * What is string interpolation: use of moustache syntaxi.e double curly braces
 * how to generate class: ng generate class dummy
 * Directives: Directives change behaviour of html dom eg: any angular variable 
