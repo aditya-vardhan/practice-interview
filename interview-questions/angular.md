@@ -39,5 +39,5 @@ other interview questions:
     this.route.navigate(['/Home']) helps navigation from behind view
 .What is lazy loading: on demand loading. loading what is essential css html & js
     for this divide project into seperate modules and use loadChildren in router
-    ![eg](https://github.com/aditya-vardhan/practice-interview/blob/master/interview-questions/images/angular/lazy-loading.jpg)
+    ![](images/angular/lazy-loading.jpg)
     
