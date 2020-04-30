@@ -26,7 +26,7 @@
     * event binding: (ngModel) view to component
     * 2 way binding: [(ngModel)] view <> component
 * Explain the architecture of angular:
-    1. template: view of angular
+    1. template: view of angular. template can also be defined inlin inside component
     2. component(view talks to component) component talks with css, view
     3. module(groups the components logically)
     4. binding:[()] defines how view and component communicate
